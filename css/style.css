@@ -1,13 +1,7 @@
-@font-face {
-    font-family: exo2;
-    src: url("source/Exo2-Regular.ttf");
-}
-
 body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    font-family: 'exo2';
 }
 
 a{
