@@ -1,0 +1,32 @@
+@font-face {
+    font-family: exo2;
+    src: url("source/Exo2-Regular");
+}
+
+body{
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+}
+
+p{
+    color: #f5f5f75c;
+    font-style: italic;
+}
+
+h6{
+    color: #f7f7f9;
+}
+
+#head{
+    padding-top: 5px;
+    text-align: center;
+    height: 128px;
+}
+
+.q{
+    text-align: center;
+    width: 60%;
+    height: 35px;
+    border-radius: 25px;
+}
