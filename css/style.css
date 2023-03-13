@@ -35,14 +35,6 @@ button{
     height: 128px;
 }
 
-#down{
-    bottom: 1%;
-    left: 5%;
-    width: 90%;
-    position: fixed;
-    border: 0px;
-}
-
 .q{
     text-align: center;
     width: 60%;
