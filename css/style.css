@@ -36,8 +36,8 @@ button{
 }
 
 #down{
-    margin-left: 5%;
-    margin-right: 5%;
+    bottom: -5%;
+    position: fixed;
 }
 
 .q{
