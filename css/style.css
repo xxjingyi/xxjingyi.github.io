@@ -44,6 +44,7 @@ button{
 
 .q::placeholder{
     font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
 }
 
 .all-links{
