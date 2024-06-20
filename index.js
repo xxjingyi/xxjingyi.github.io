@@ -1,3 +1,3 @@
-import * as THREE from './lib/js/three.modules';
+import * as THREE from './node_modules/three';
 
 console.log(THREE);
